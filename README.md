@@ -1,7 +1,6 @@
 # 🗓️ Day 5 — Final AD Audit & Cleanup
-
-**Description:**  
-Finalize the Active Directory environment by reviewing configurations, removing a user, and capturing key documentation. This completes the full user lifecycle without requiring any logins.
+ 
+## Finalize the Active Directory environment by reviewing configurations, removing a user, and capturing key documentation. This completes the full user lifecycle without requiring any logins.
 
 ---
 
@@ -52,5 +51,3 @@ Document actions taken on Day 5, including group verification, account deletion,
 ## 🧾 Lab Summary
 
 This concludes the 5-day Active Directory lab for the Chicago Bank Branch. All essential administrative tasks have been performed using proper AD tools and processes — including user creation, modification, delegation, access control, and cleanup. The environment is now fully documented and reflects real-world user lifecycle management.
-
-✅ **Lab Completed Successfully**
